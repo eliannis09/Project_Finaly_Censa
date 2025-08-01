@@ -1,10 +1,11 @@
 # NOMBRE
 ## ELIANNIS VALENTINA HERNANDEZ SANTIAGO
 ### 100 PALABRAS DE LO QUE HACE SU APLICACION 
-####### mi  página web está dedicada a animales raros y permite a los usuarios registrarlos fácilmente. 
-Cada animal ingresado muestra su nombre en una lista organizada, la cual puede editarse o eliminarse según se necesite. 
-La página ofrece una experiencia interactiva y sencilla, ideal para explorar y gestionar información sobre especies poco comunes. 
-Está diseñada con funciones básicas como agregar, modificar y borrar registros, facilitando el control de los datos. Es una herramienta útil para curiosos, investigadores o amantes de los animales exóticos que quieran mantener un pequeño catálogo digital de especies inusuales desde cualquier dispositivo con acceso a internet.
+####### "Belleza & Estilo" es una página web dedicada al mundo de la estética y el cuidado personal. 
+Su objetivo principal es ofrecer servicios exclusivos de belleza a través de una plataforma moderna, elegante y fácil de usar. 
+En la página, los usuarios pueden registrarse, conocer los servicios disponibles y agendar citas de manera rápida y segura. Con un diseño visual atractivo, la web transmite profesionalismo y confianza, destacando el mensaje central: “Somos tu belleza”. 
+Las secciones como Inicio, Servicios y Contacto permiten una navegación clara. 
+Este proyecto busca conectar a los usuarios con experiencias únicas de estilo y bienestar.
 
 
 
